@@ -1,0 +1,3 @@
+[submodule "inetmanet-3.x"]
+	path = inetmanet-3.x
+	url = https://github.com/dodo5407/inetmanet-3.x.git
